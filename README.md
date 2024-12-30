@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70bff3c0-b886-4729-9664-9b9268522035/deploy-status)](https://app.netlify.com/sites/dailymusings/deploys)
 ---
 title: "Creating a new Post"
 description: "How to create a blog post"
